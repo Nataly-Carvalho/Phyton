@@ -5,9 +5,9 @@ Nome: Nataly Carvalho da Silva
 
 Q.Entrada
 
-- Primeira linha: uma palavra simples  (sem espaços)
+- Primeira linha: uma palavra simples (sem espaços)
 
-- Linhas seguintes: uma letra por linha. 
+- Linhas seguintes: uma letra por linha.
 
 - Última linha: um ponto final.
 
