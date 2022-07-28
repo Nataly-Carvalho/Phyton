@@ -9,7 +9,7 @@
 - Turma : 9
 - Professora orientadora: Maria das Graças Campos Pimentel
 
-## O repositorio comten 
+## O repositorio Contém
 
 - Estruturas de repetição for
 - Estruturas de repetição(While) e string count
